@@ -11,4 +11,8 @@ exports.results = [
     email: 'how@fbi.com',
     password: 'exactly',
   },
+  {
+    email: 'arcangel@fbi.com',
+    password: 'prrra',
+  },
 ]
